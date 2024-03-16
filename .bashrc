@@ -20,4 +20,4 @@
 alias l='ls -al $LS_OPTIONS'
 alias ll='ls -al $LS_OPTIONS'
 alias .='cd ..'
-alias doxec ='docker exec -it $i /bin/bash'
+alias doxec='docker exec -it $i /bin/bash'
